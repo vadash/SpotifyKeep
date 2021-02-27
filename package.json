@@ -1,7 +1,7 @@
 {
   "name": "SpotifyKeep",
   "productName": "SpotifyKeep",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "description": "keep ya music kids",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JBarna/SpotifyKeep.git"
+    "url": "git+https://github.com/vadash/SpotifyKeep.git"
   },
   "keywords": [
     "spotify",
@@ -22,14 +22,14 @@
   "author": "JBizzle",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JBarna/SpotifyKeep/issues"
+    "url": "https://github.com/vadash/SpotifyKeep/issues"
   },
-  "homepage": "https://github.com/JBarna/SpotifyKeep#readme",
+  "homepage": "https://github.com/vadash/SpotifyKeep#readme",
   "dependencies": {
     "opener": "^1.4.3"
   },
   "devDependencies": {
-    "electron": "1.7.9",
-    "electron-packager": "^8.7.2"
+    "electron": "^11.3.0",
+    "electron-packager": "^15.2.0"
   }
 }
